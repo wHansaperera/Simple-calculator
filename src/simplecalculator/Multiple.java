@@ -9,7 +9,7 @@ package simplecalculator;
  *
  * @author HANZA
  */
-public class Multiple extends Simplecalculator{
+public class Multiple extends Differrence{
 
     public Multiple(double a, double b) {
         super(a, b);

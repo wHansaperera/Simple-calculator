@@ -6,7 +6,7 @@
 package simplecalculator;
 
 
-public class Differrence extends Simplecalculator{
+public class Differrence extends Adiition{
 
     public Differrence(double a, double b) {
         super(a, b);
